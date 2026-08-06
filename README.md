@@ -31,6 +31,11 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 Estou praticando conceitos de desenvolvimento web e versionamento com Git/GitHub, consolidando meu aprendizado e me preparando para conquistar meu primeiro certificado através do **Curso em Vídeo**! 🚀
 
 ---
+## 📚 Meus Cursos (Curso em Vídeo)
+
+- [x] **HTML5 e CSS3:** Módulo 1 (Concluído)
+- [ ] **HTML5 e CSS3:** Módulo 2 (Em andamento)
+- [ ] **Git e GitHub:** Controle de versão e publicação (Em andamento)
 
 ## 🔗 Como visualizar
 
